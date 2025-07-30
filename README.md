@@ -15,4 +15,9 @@ with programmers and other users of Git.
 For more information on Git, see the
 [official Git documentation](https://git-scm.com/).
 
-Test Push To Git....
+
+
+I am changing my terminal prompt to pink bold text "Matrix". How Cool!
+
+promptText="Matrix"
+PS1="$(tput bold)$(tput setaf 5)$promptText$(tput sgr0)"
