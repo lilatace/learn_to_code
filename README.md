@@ -22,4 +22,6 @@ I am changing my terminal prompt to pink bold text "Matrix". How Cool!
 promptText="Matrix "
 PS1="$(tput bold)$(tput setaf 5)$promptText$(tput sgr0)"
 
-TEST 
+I am changing my terminal prompt to pink bold text "Turtle". How Cool!
+
+promptText="Turtle " PS1="$(tput bold)$(tput setaf 6)$promptText$(tput sgr0)"
