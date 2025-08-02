@@ -1,27 +1,9 @@
-# Sample Website
+# This is my first website
 
-This is a sample website made as part of [*Learn Enough Git to Be
-Dangerous*](https://www.learnenough.com/git-tutorial), possibly the greatest
-beginner Git tutorial in the history of the Universe. You should totally [
-check it out](https://www.learnenough.com/git-tutorial), and be sure to [join
-the email list](https://www.learnenough.com/#email_list) and
-[follow @learnenough](http://twitter.com/learnenough) on Twitter.
-
-After finishing *Learn Enough Git to Be Dangerous*, you'll know enough Git
-to be *dangerous*. This means you'll be able to use Git to track changes in
-your projects, back up data, share your work with others, and collaborate
-with programmers and other users of Git.
-
-For more information on Git, see the
-[official Git documentation](https://git-scm.com/).
+My mission is to create and build the best artist education and tools for artists on the planet with The Road For Artists & Evolving Art. To do that, I am learning to code.
 
 
 
-I am changing my terminal prompt to pink bold text "Matrix". How Cool!
-
-promptText="Matrix "
-PS1="$(tput bold)$(tput setaf 5)$promptText$(tput sgr0)"
-
-I am changing my terminal prompt to pink bold text "Turtle". How Cool!
+I am changing my terminal's prompt to a bold blue "Turtle". How cool! 🐢
 
 promptText="Turtle " PS1="$(tput bold)$(tput setaf 6)$promptText$(tput sgr0)"
